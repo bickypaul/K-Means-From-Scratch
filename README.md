@@ -11,4 +11,8 @@ Labels for the training data (each data point is assigned to a single cluster)
 2. Matplotlib (for Data visualization)
 
 ## Screenshots
+Datapoints
+![Datapoints](/datapoints.png)
 
+Clusters
+![Clusters](/clusters.png)
